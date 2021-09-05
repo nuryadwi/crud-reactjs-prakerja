@@ -1,0 +1,65 @@
+.pwrraper{
+    width: 600px;
+    box-sizing: 12px;
+    margin-left: 400px;
+}
+.nav{
+    background-color: aqua;
+    display: flex;
+    width: 600px;
+    margin: auto;
+    box-sizing: border-box;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    height: 50px;
+}
+.logo{
+    width: 300px;
+    color: aliceblue;
+    margin-top: -10px;
+}
+.keranjang{
+    width: 300px;
+    position: relative;
+    float: right;
+}
+.keranjang img{
+    width: 30px;
+    float: right;
+    margin-right: 10px;    
+}
+.jumlah{
+    background-color: blanchedalmond;
+    padding: 10px;
+    border-radius: 50%;
+    min-width: 10px;
+    height: 10px;
+    text-align: center;
+    color: black;
+    font-size: 11px;
+    position: absolute;
+    margin-left: 239px;
+    margin-top: 7px;
+}
+
+.product{
+    border: 1px solid rgba(0, 0, 0, 23);
+    padding: 10px;
+    width: 320px;
+    border-radius: 5px;
+    margin: auto;
+}
+.counter{
+    margin-left: 180px;
+    margin-top: 20px;
+}
+.mplus{
+    background-color: blue;
+    height: 40px;
+    width: 40px;
+}
+.input{
+    height: 35px;
+    border-radius: 5px;
+    text-align: center;
+}
